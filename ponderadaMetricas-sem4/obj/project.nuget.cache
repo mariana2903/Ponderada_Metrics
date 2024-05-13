@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ik2grMnfaHFYJKPfBCqGJ23BbuAdXzJ76Cdm6k43QaAkOEGNJFgrP9fr1qWo3bIpWigZX1UUmut3nByAl29kcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inteli\\Documents\\Estudos\\ponderadaMetricas-sem4\\ponderadaMetricas-sem4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inteli\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
